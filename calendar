@@ -1,0 +1,7 @@
+## print calendar
+import datetime
+import calendar
+"""a=datetime.date(2026,1,31)
+b=datetime.date(2005,3,21)
+print(a-b)"""
+print(calendar.calendar(2026))
